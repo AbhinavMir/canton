@@ -1,5 +1,7 @@
 The point is to dream big.
 
+Canton is my pet project, where I aim to build a simple chip, write an OS on it, write a C compiler for this target, and then write a simple shell and core utils in C. Ideally, I should be able to connect to internet via TLS1.3, and then write a simple web browser in Qt. Some things along the way: a linker, assembler, and re-implementing ELF would be nice. Currently I am using neovim with a few plugins, but I'd also want to rewrite `vi` and use that. 
+
 - [ ] Rust Operating system (As a simple practice)
 - [ ] OS in C from scratch
 - [ ] Tiny CPU in VeriLog
